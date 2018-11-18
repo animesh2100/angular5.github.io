@@ -548,7 +548,7 @@ module.exports = ".lock{\r\n\r\n  }\r\n"
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "  <div class=\"lock\">\n    <img alt=\"lock image\" src=\"/dist/assets/lock/images/lock{{imageNumber}}.png\" />\n  </div>\n"
+module.exports = "  <div class=\"lock\">\n    <img alt=\"lock image\" src=\"/angular5assessment/assets/lock/images/lock{{imageNumber}}.png\" />\n  </div>\n"
 
 /***/ }),
 
